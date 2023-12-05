@@ -1,0 +1,14 @@
+body {
+    vh: 100%;
+    background-color: #4ca4bd;
+}
+
+input {
+    display:flex;
+    -ms-flex-direction: column;
+
+}
+
+.button {
+   color: blue;
+}
